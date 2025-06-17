@@ -35,3 +35,4 @@
 {"level":"info","message":"192.168.1.23 - - [17/Jun/2025:10:47:47 +0000] \"GET /salonowner/signin/fetch?email=epm%40g.com HTTP/1.1\" 404 162 \"-\" \"Dart/3.6 (dart:io)\"","timestamp":"2025-06-17T10:47:47.876Z"}
 {"level":"info","message":"192.168.1.23 - - [17/Jun/2025:10:49:41 +0000] \"GET /salonowner/signin/get/data?email=epm%40g.com HTTP/1.1\" 404 165 \"-\" \"Dart/3.6 (dart:io)\"","timestamp":"2025-06-17T10:49:41.476Z"}
 {"level":"info","message":"192.168.1.23 - - [17/Jun/2025:10:51:37 +0000] \"GET /salonowner/signin/get/data?email=epm%40g.com HTTP/1.1\" 404 165 \"-\" \"Dart/3.6 (dart:io)\"","timestamp":"2025-06-17T10:51:37.157Z"}
+{"level":"info","message":"127.0.0.1 - - [17/Jun/2025:12:50:44 +0000] \"GET /__server_sent_events__ HTTP/1.1\" 404 161 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","timestamp":"2025-06-17T12:50:44.999Z"}
